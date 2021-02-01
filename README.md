@@ -4,7 +4,7 @@ A dockerized build environment to build [r00ter](https://www.ofmodemsandmen.com/
 
 ## Usage
 
-1. Have docker installed [instructions](https://docs.docker.com/engine/install/)
+1. Have docker installed ([instructions](https://docs.docker.com/engine/install/))
 2. Download this repository:
    
    ```bash
